@@ -1,5 +1,5 @@
 
-# Ecommerce_Sales : Dashboard
+# Ecommerce Sales Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=6927fb0b-ba34-4aba-847b-091cc06f27cb&autoAuth=true&ctid=e5d1223a-5800-4115-98d7-1600e7c28ed0
 
